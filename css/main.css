@@ -1,0 +1,85 @@
+.container {
+    width: 1400px;
+    height: 590px;
+    background-color:#FFFFFF;
+}
+
+.head {
+    text-align: center;
+}
+
+.title {
+    font-size: 36px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    color: #212121;
+    text-align: center;
+    margin: 107px 0 0 0;
+}
+
+.subtitle {
+    font-size: 20px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    color: #333333;
+    margin-bottom: 25px;
+    margin-top: 0px;
+}
+
+.text {
+    font-size: 14px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    color: #86878B;
+    display : inline-block ;
+    text-align: center;
+    margin-top: 0px;
+}
+
+hr {
+    border: none;
+    background-color:#FF8B38;
+    height: 2px;
+    width: 64px;
+    margin-top: 30px;
+    margin-bottom: 32px;
+   }
+
+.round {
+    display:inline-block;
+    width: 70px;
+    height: 70px;
+    border: 2px solid #FF8B38;
+    border-radius: 50%;
+    line-height: 70px;
+    margin-top: 80px;
+    margin-bottom: 29px;
+  }
+
+  .bulb, .keyboard, .lightning {
+    vertical-align: middle;
+    }
+
+  .thoughtful-design {
+    display : inline-block ;
+    width: 350px;
+    border : none;
+    text-align: center;
+    margin-left: 143px;
+  }
+
+  .well-crafted {
+    display : inline-block ;
+    width: 350px;
+    border : none;
+    text-align: center;
+    margin-left: 32px;
+  }
+
+  .easy-customize {
+    display : inline-block ;
+    width: 350px;
+    border : none;
+    text-align: center;
+    margin-left: 32px;
+  
